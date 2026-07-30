@@ -167,9 +167,9 @@ A renderer-only Lens Extension that embeds a persistent AI chat panel inside the
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemanthkp98&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=6E40C9&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemanthkp98&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=6E40C9&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=1800" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkp98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E40C9&text_color=c9d1d9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkp98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E40C9&text_color=c9d1d9&langs_count=8&cache_seconds=1800" />
 
 </div>
 
@@ -185,7 +185,7 @@ A renderer-only Lens Extension that embeds a persistent AI chat panel inside the
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hemanthkp98&theme=tokyonight&no-frame=true&row=1&column=7&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=hemanthkp98&theme=darkhub&no-frame=true&row=1&column=6&no-bg=true&margin-w=8" />
 
 </div>
 
