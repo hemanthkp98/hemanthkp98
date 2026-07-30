@@ -196,7 +196,8 @@ A renderer-only Lens Extension that embeds a persistent AI chat panel inside the
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@hemanthkp98-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemanthkp98)
-[![Email](https://img.shields.io/badge/Email-hemanthkp98@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemanthkp98@gmail.com)
+[![Twitter / X](https://img.shields.io/badge/Twitter-@HemanthBuilds-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HemanthBuilds)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemanth_KP-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanth-kp-a13a91185/)
 
 <br/>
 
